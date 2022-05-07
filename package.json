@@ -19,6 +19,6 @@
   "homepage": "https://github.com/karpnorbert/learning-git#readme",
   "devDependencies": {
     "browser-sync": "^2.27.9",
-    "html-validate": "^6.9.1"
+    "html-validate": "^6.11.1"
   }
 }
